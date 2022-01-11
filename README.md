@@ -6,8 +6,13 @@ The quizzes questions were also scrapped, using Python and Selenium, from this w
 
 This web application includes a login system that allows storing the history of users series.
 
-## remaining tasks
+## Remaining tasks
 
 - Allow users to register
 - Make the web app responsive
 - Write unit test using jest
+
+## Related projects
+
+- [kar_app](https://github.com/YassLipton/kar_app), a simple quiz hybrid (Android & iOS) app developped in React Native.
+- [kar_server](https://github.com/YassLipton/kar_server), the server of the quiz apps.
