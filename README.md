@@ -8,7 +8,6 @@ This web application includes a login system that allows storing the history of 
 
 ## Remaining tasks
 
-- Allow users to register
 - Make the web app responsive
 - Write unit test using jest
 
